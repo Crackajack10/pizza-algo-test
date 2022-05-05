@@ -1,2 +1,13 @@
-find pizza
-get pizza
+1- find pizza
+2- get pizza
+
+3a-   IF we pay online then provide payment information 
+        - wait for delivery
+        - tip driver
+3b-    IF we are going to pay in person 
+        - go to store
+        -pay for pizza
+        -tip driver
+
+        
+
